@@ -1,6 +1,6 @@
 #include <string.h>
-int main() 
-{
+//string code sample file!
+int main() {
 char str[100];
 int i, len;
 printf("Enter a string: ");
